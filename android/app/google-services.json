@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371459629543",
+    "project_id": "fash-hamza",
+    "storage_bucket": "fash-hamza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371459629543:android:afb1213e2c6fd994b09d42",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi04GWN-Em7H4kbBYZojeVuK--F8caAbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
